@@ -1,0 +1,2 @@
+# awesome
+Awesome Go repository
